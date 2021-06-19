@@ -1,0 +1,1 @@
+File config.php giúp kết nối với csdl, database.php trong folder lib sẽ làm việc trên csdl

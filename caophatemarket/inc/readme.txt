@@ -1,0 +1,1 @@
+Đây là phần code html của header , slider, footer , sẽ được dùng chung cho tất cả các page và được include trong môi page để tránh dài dòng
